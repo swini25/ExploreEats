@@ -1,0 +1,77 @@
+body {
+   border: none;
+   background-color:lightsteelblue;        
+}
+
+.dropdown-menu {
+    background-color:lightsteelblue; 
+}
+
+.dropdown.dropdown-menu {
+    background-color: #e0e8f0;   
+}
+
+.Cusines {
+    border: none;
+    max-width: 100%;
+    border-radius: 12px;      
+}
+
+.btn-primary{
+    background-color: #013449;
+    border: none;
+    text-align: left;
+  }
+
+.btn-primary:hover{
+    opacity: 1;
+}
+
+.paginationBttns {
+    width: 80%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .paginationBttns a {
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .paginationBttns a:hover {
+    color: black;
+    /* background-color: gray; */
+    background-color: rgb(52, 107, 158);
+  }
+  
+  .paginationActive a {
+    color: black;
+    /* background-color: gray; */
+    background-color: rgb(52, 107, 158);
+
+  }
+  
+  .paginationDisabled a {
+    background-color: #cccccc;
+    color: #666666;
+    text-decoration: none;
+  }
+
+  .paginationDisabled a:hover {
+    background-color: #cccccc;
+    color: #666666;
+    text-decoration: none;
+  }
+
+  .customDiv{
+      float: left !important;
+      padding-top: 15px !important;
+  }
+
