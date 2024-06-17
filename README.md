@@ -44,8 +44,8 @@ ExploreEats is a comprehensive web application designed for wanderers to explore
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/onestopwander.git
-   cd onestopwander
+   git clone https://github.com/yourusername/ExploreEats.git
+   cd ExploreEats
    ```
 
 2. **Install dependencies for backend and frontend:**
